@@ -35,7 +35,7 @@ html[data-mode="band"] .editor-only { display: none !important; }
 html[data-mode="band"] .show-btn { cursor: default; }
 .band-sees { display: block; font-size: 13px; color: var(--ok); font-weight: 700; margin-top: 2px; }
 .band-sees.warn { color: var(--muted); font-weight: 400; }
-.warn-banner { background: color-mix(in srgb, var(--danger) 14%, var(--bg)); }
+.banner.warn-banner { background: color-mix(in srgb, var(--danger) 14%, var(--bg)); }
 .band-foot { text-align: center; color: var(--muted); font-size: 14px; margin: 0 0 40px; }
 .band-foot a { color: var(--accent-ink); }
 .print-only { display: none; }
