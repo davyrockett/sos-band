@@ -50,7 +50,7 @@ with this section (copy it from any other app) plus an "## This app" section.
 ## This app
 
 **SOS Band**: the band's view-only app (setlist + charts, stage plot, gear, mixer, band) for the Sounds of
-Service (SOS) Band. Live: https://davyrockett.github.io/sos-band/ (David gives this link to the band).
+Service (SOS) Band. Live: https://www.davyrockett.com/sos-band/ (David gives this link to the band).
 
 - **Don't edit the app files here.** index.html, app.js, styles.css, sw.js, vendor/ and icons/ are copied in from
   the editor (repo davyrockett/sos-band-editor, folder `../sos-band-editor`) by its `tools/publish-band-app.sh`.

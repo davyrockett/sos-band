@@ -1,7 +1,7 @@
 # SOS Band
 
 The Sounds of Service (SOS) Band's setlist, chord charts, stage plot, gear list and mixer routing.
-Live: https://davyrockett.github.io/sos-band/
+Live: https://www.davyrockett.com/sos-band/
 
 - **Setlist**: tap a song to open its chart and print it. **Print all charts** makes one PDF of the whole set, in order.
   **Print list** prints just the song titles.
